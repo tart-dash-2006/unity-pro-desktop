@@ -1,3 +1,3 @@
 # Unity Pro
 
-Utility scaffolding.
+Placeholder README (LLM render failed).
